@@ -8543,11 +8543,11 @@ u32 GetMoveTargetCount(u32 move, u32 battlerAtk, u32 battlerDef)
 
 static const u8 sFlailHpScaleToPowerTable[] =
 {
-    1, 200,
-    4, 150,
-    9, 100,
-    16, 80,
-    32, 40,
+    6, 200,
+    12, 150,
+    24, 100,
+    36, 80,
+    42, 40,
     48, 20
 };
 
