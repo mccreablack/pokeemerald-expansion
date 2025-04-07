@@ -4420,6 +4420,26 @@
       "secondary_tileset": "gTileset_Fallarbor",
       "border_filepath": "data/layouts/Orlen/border.bin",
       "blockdata_filepath": "data/layouts/Orlen/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE0",
+      "name": "Route0_Layout",
+      "width": 41,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lavaridge",
+      "border_filepath": "data/layouts/Route0/border.bin",
+      "blockdata_filepath": "data/layouts/Route0/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE1",
+      "name": "Route1_Layout",
+      "width": 90,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Pacifidlog",
+      "border_filepath": "data/layouts/Route1/border.bin",
+      "blockdata_filepath": "data/layouts/Route1/map.bin"
     }
   ]
 }

@@ -1628,8 +1628,16 @@
 #define SPECIES_URSHIFU_SINGLE_STRIKE_STYLE_GIGANTAMAX  1521
 #define SPECIES_URSHIFU_RAPID_STRIKE_STYLE_GIGANTAMAX   1522
 #define SPECIES_MIMIKYU_TOTEM_BUSTED                    1523
+#define SPECIES_SPARK                                   1524
+#define SPECIES_SPARKAPE                                1525
+#define SPECIES_SPARKONG                                1526
+#define SPECIES_THUNDERBACK                             1527
+#define SPECIES_BRAKIE                                  1528
+#define SPECIES_BRAKIO                                  1529
+#define SPECIES_BRAKION                                 1530
+#define SPECIES_BRAKITORUS                              1531
 
-#define SPECIES_EGG (SPECIES_MIMIKYU_TOTEM_BUSTED + 1)
+#define SPECIES_EGG (SPECIES_BRAKITORUS + 1)
 
 #define NUM_SPECIES SPECIES_EGG
 
