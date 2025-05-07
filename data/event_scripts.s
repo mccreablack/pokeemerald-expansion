@@ -1078,3 +1078,9 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/Route0/scripts.inc"
 
 	.include "data/maps/Route1/scripts.inc"
+
+	.include "data/maps/Agramis/scripts.inc"
+
+	.include "data/maps/OrlenCoast/scripts.inc"
+
+	.include "data/maps/OrlenWoods/scripts.inc"

@@ -95,7 +95,10 @@
     "Underwater_Route125",
     "Orlen",
     "Route0",
-    "Route1"
+    "Route1",
+    "Agramis",
+    "OrlenCoast",
+    "OrlenWoods"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",

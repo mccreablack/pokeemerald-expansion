@@ -4424,8 +4424,8 @@
     {
       "id": "LAYOUT_ROUTE0",
       "name": "Route0_Layout",
-      "width": 41,
-      "height": 40,
+      "width": 60,
+      "height": 60,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Lavaridge",
       "border_filepath": "data/layouts/Route0/border.bin",
@@ -4440,6 +4440,36 @@
       "secondary_tileset": "gTileset_Pacifidlog",
       "border_filepath": "data/layouts/Route1/border.bin",
       "blockdata_filepath": "data/layouts/Route1/map.bin"
+    },
+    {
+      "id": "LAYOUT_AGRAMIS",
+      "name": "Agramis_Layout",
+      "width": 32,
+      "height": 48,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/Agramis/border.bin",
+      "blockdata_filepath": "data/layouts/Agramis/map.bin"
+    },
+    {
+      "id": "LAYOUT_ORLEN_COAST",
+      "name": "OrlenCoast_Layout",
+      "width": 94,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Slateport",
+      "border_filepath": "data/layouts/OrlenCoast/border.bin",
+      "blockdata_filepath": "data/layouts/OrlenCoast/map.bin"
+    },
+    {
+      "id": "LAYOUT_ORLEN_WOODS",
+      "name": "OrlenWoods_Layout",
+      "width": 34,
+      "height": 60,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/OrlenWoods/border.bin",
+      "blockdata_filepath": "data/layouts/OrlenWoods/map.bin"
     }
   ]
 }

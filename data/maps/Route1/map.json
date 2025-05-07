@@ -17,6 +17,11 @@
       "map": "MAP_ORLEN",
       "offset": 58,
       "direction": "down"
+    },
+    {
+      "map": "MAP_AGRAMIS",
+      "offset": -30,
+      "direction": "left"
     }
   ],
   "object_events": [

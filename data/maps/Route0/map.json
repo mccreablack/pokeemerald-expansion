@@ -2,7 +2,7 @@
   "id": "MAP_ROUTE0",
   "name": "Route0",
   "layout": "LAYOUT_ROUTE0",
-  "music": "MUS_DUMMY",
+  "music": "MUS_PETALBURG_WOODS",
   "region_map_section": "MAPSEC_ABANDONED_SHIP",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
@@ -14,7 +14,7 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_ORLEN",
+      "map": "MAP_ORLEN_WOODS",
       "offset": 0,
       "direction": "dive"
     },
@@ -29,9 +29,24 @@
       "direction": "dive"
     },
     {
+      "map": "MAP_ORLEN_COAST",
+      "offset": 0,
+      "direction": "dive"
+    },
+    {
+      "map": "MAP_ORLEN_COAST",
+      "offset": 0,
+      "direction": "down"
+    },
+    {
       "map": "MAP_ORLEN",
       "offset": 0,
       "direction": "up"
+    },
+    {
+      "map": "MAP_ORLEN_WOODS",
+      "offset": 0,
+      "direction": "right"
     }
   ],
   "object_events": [

@@ -66,6 +66,9 @@
 #define MAP_ORLEN               (57 | (0 << 8))
 #define MAP_ROUTE0              (58 | (0 << 8))
 #define MAP_ROUTE1              (59 | (0 << 8))
+#define MAP_AGRAMIS             (60 | (0 << 8))
+#define MAP_ORLEN_COAST         (61 | (0 << 8))
+#define MAP_ORLEN_WOODS         (62 | (0 << 8))
 
 // gMapGroup_IndoorLittleroot
 #define MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F    (0 | (1 << 8))
